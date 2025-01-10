@@ -4,7 +4,7 @@ let heroRank
 
 heroName = "Hulk"
 heroXP = 1000
-heroRank = "Bronze"
+heroRank = "Ferro"
 
 /*
 console.log("Bem-vindo ao classifacor de Rank!\nVou precisar de alguma informações...")
