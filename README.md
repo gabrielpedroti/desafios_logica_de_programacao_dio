@@ -8,4 +8,4 @@ Cada pasta neste repositório corresponde a um projeto da formação, contendo:
 
 ## Sobre a Formação 🖥️
 
-Fiz essa formação com o intuito de revisar conteúdos importantes, como variáveis, laços de repetição, funções e objetos, já que estava há um tempo sem programar.
+Essa formação aborda conceitos iniciais, mas fundamentais, como: variáveis, laços de repetição, funções e objetos. Decidi fazer essa formação como forma de revisão para esses conteúdos, já que estava há algum tempo sem programar.  
