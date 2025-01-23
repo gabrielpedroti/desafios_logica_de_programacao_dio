@@ -2,7 +2,7 @@
 
 Você é um jovem herói que embarca em uma jornada épica para derrotar o temido dragão que aterroriza o reino. No entanto, você precisa atravessar uma floresta perigosa para chegar à caverna do dragão. Cada passo é crucial, e sua jornada será determinada pela lógica afiada que você possuir.
 
-**Tarefa:**
+### **Tarefa:**
 
  Escreva um algoritmo que simule a jornada do herói pela floresta. O herói começa em uma posição inicial e deve dar uma série de passos para atravessar a floresta até a caverna do dragão.
 
@@ -14,6 +14,6 @@ Você é um jovem herói que embarca em uma jornada épica para derrotar o temid
 ### **Saída:**
 Imprima a posição final do herói após dar a quantidade de passos especificada.
 
-###
+##
 
 **Obs**: O código foi feito e testado na plataforma da DIO.
