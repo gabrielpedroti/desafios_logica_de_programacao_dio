@@ -1,4 +1,4 @@
-## **Desafio Classificador de nível de Herói**
+## **Classificador de nível de Herói**
 
 ### **O Que deve ser utilizado:**
 
