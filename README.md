@@ -1,4 +1,4 @@
-## **Formação Lógica de Programação - DIO 🚀**
+## **Formação Lógica de Programação - DIO**
 
 Este repositório contém todos os desafios propostos durante a Formação **Lógica de Programação** da [DIO](https://www.dio.me/), ministrada pelo [Felipe Aguiar](https://github.com/felipeAguiarCode).  
 
